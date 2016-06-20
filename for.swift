@@ -1,6 +1,6 @@
 
 
-import Cocoa
+//import Cocoa
 
 var someInts:[Int] = [10, 20, 30]
 
